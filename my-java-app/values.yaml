@@ -1,5 +1,7 @@
 # values.yaml
 
+namespace: application
+
 replicaCount: 1
 
 image:
